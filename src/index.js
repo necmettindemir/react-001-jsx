@@ -6,7 +6,6 @@ import ReactDOM from 'react-dom';
 //step 2 -  Rrate a react component
 const App = () =>
 {
-
     function getTime()
     {
         return (new Date()).toLocaleTimeString();
