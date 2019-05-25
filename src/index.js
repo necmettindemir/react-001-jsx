@@ -3,7 +3,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 
-//step 2 -  Rrate a react component
+
+//step 2 -  cRrate a react component
 const App = () =>
 {
     function getTime()
